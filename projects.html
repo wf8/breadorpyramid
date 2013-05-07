@@ -7,16 +7,24 @@
     	<link href="css/bootstrap.css" rel="stylesheet">
 		<link href="css/bootstrap-responsive.css" rel="stylesheet">
 		<link href="css/personal.css" rel="stylesheet">
-		
+		<script src="js/jquery-1.9.1.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
 	</head>
 	<body>
-
+		
     	<div class="container-narrow">
 
       		<div class="masthead">
         		<ul class="nav nav-pills pull-right">
           			<li><a href="index.html">About</a></li>
-          			<li class="active"><a href="projects.html">Projects</a></li>
+          			<li class="active dropdown">
+          				<a id="projects_drop" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
+          				<ul class="dropdown-menu" role="menu" aria-labelledby="projects_drop">
+                        	<li role="presentation"><a role="menuitem" tabindex="-1" href="projects.html#restorationmap">Restoration Map</a></li>
+                        	<li role="presentation"><a role="menuitem" tabindex="-1" href="projects.html#rhodiola"><em>Rhodiola</em> phylogenetics</a></li>
+                        	<li role="presentation"><a role="menuitem" tabindex="-1" href="projects.html#fqa">Universal FQA Calculator</a></li>
+                      	</ul>
+                   	</li>
           			<li><a href="publications.html">Publications</a></li>
           			<li><a href="contact.html">Contact</a></li>
         		</ul>
@@ -24,6 +32,52 @@
       		</div>
 
 			<div class="nice_margins">
+			
+				<section id="restorationmap">
+				<div class="row-fluid">
+					<div class="span6">
+						<div class="row-fluid bottom-padding">
+							<div class="span6">
+								<img src="img/rm1-1.png" class="img-rounded">
+							</div>
+							<div class="span6">
+								<img src="img/rm1-5.png" class="img-rounded">
+							</div>
+						</div>
+						<div class="row-fluid">
+							<div class="span6">
+								<img src="img/rm1-3.png" class="img-rounded">
+							</div>
+							<div class="span6">
+								<img src="img/rm1-4.png" class="img-rounded">
+							</div>
+						</div>
+					</div>
+					<div class="span6">
+						<h4>Restoration Map</h4>
+						<p><a href="http://restorationmap.org">Restoration Map</a> is an open-source and free web-based application to help plan, implement, and 
+						assess ecological restoration projects within Chicago Wilderness natural areas.
+						It is designed to encourage collaboration and improve communication
+						among stakeholders including the landowner 
+						agencies, volunteers, restoration contractors, interns, and partner conservation organizations.
+						</p><p>
+						The map's users have entered over 1800 map layers representing 13 years of management work 
+						and experimentation in Chicago-area restoration projects.
+						By integrating long term monitoring data from the Bird Conservation Network (eBird), the Calling Frog 
+						Survey, and other sources, <a href="http://restorationmap.org">Restoration Map</a> provides feedback on the effects of restoration work, therefore 
+						utilizing an adaptive management approach.
+						</p><p>
+						<a href="http://restorationmap.org">Restoration Map</a> has been developed with the support of the National Audubon Society using all free and 
+						open-source software. The concept was inspired by Stephen Packard's stewardship of the beautiful 
+						<a href="http://www.sommepreserve.org/">Somme Prairie Grove</a>.
+						The map is built on PHP and MySQL, and uses the Google Earth plugin.</p>
+						<p class="text-info">Learn more at <a href="http://restorationmap.org">http://restorationmap.org</a></p>
+						<br><br><br>
+					</div>
+				</div>
+				</section>
+				<section id="rhodiola">
+				<hr>
 				<div class="row-fluid">
 					<div class="span6">
 						<div class="row-fluid bottom-padding">
@@ -51,8 +105,8 @@
 						such as the North American <em>Rhodiola integrifolia</em> ssp. <em>leedyi</em>, (Leedy’s roseroot) are rare and 
 						narrowly endemic. 
 						</p><p>
-						To test the evolutionary relationships of the North American <em>Rhodiola</em> taxa we 
-						analyzed the nucleotide 
+						To test the evolutionary relationships of the North American <em>Rhodiola</em> taxa, 
+						<a href="http://www.neiu.edu/~biology/">Dr. Joel Olfelt</a> and I analyzed the nucleotide 
 						sequences of the nuclear ribosomal internal transcribed spacer (ITS) and three non-coding plastid 
 						loci: the trnS-trnG intergenic spacer, the trnL intron and adjacent trnL-trnF spacer. We sequenced 
 						these regions in over 60 individuals representing range-wide geographic sampling of the six named 
@@ -64,55 +118,16 @@
 						</p><p>Our analyses reveal 
 						that two separate lineages of <em>Rhodiola</em> colonized North America an estimated 2.0 and 0.7 mya, and 
 						that two well-supported clades within <em>R. integrifolia</em> diverged from each other an estimated 1.0 mya.  
-						These results suggest that glacial movements during the Pleistocene resulted in allopatric speciation 
+						These findings suggest that glacial movements during the Pleistocene resulted in allopatric speciation 
 						and that the lineage currently classified as <em>R. integrifolia</em> needs revision. Furthermore, a South 
 						Dakota population previously identified as <em>R. integrifolia</em> ssp. <em>integrifolia</em> actually 
 						belongs in <em>R. integrifolia</em> ssp. <em>leedyi</em>, so we recommend that the conservation measures 
 						in place for Leedy’s roseroot populations be extended to the South Dakota population.
 						</p>
 					</div>
-
 				</div>
-				<hr>
-				<div class="row-fluid">
-					<div class="span6">
-						<div class="row-fluid bottom-padding">
-							<div class="span6">
-								<img src="img/rm1-1.png" class="img-rounded">
-							</div>
-							<div class="span6">
-								<img src="img/rm1-5.png" class="img-rounded">
-							</div>
-						</div>
-						<div class="row-fluid">
-							<div class="span6">
-								<img src="img/rm1-3.png" class="img-rounded">
-							</div>
-							<div class="span6">
-								<img src="img/rm1-4.png" class="img-rounded">
-							</div>
-						</div>
-					</div>
-					<div class="span6">
-						<h4>Restoration Map</h4>
-						<p>Restoration Map is an open-source and free web-based application to help plan, implement, and 
-						assess ecological restoration projects within Chicago Wilderness natural areas.
-						Its purpose is to encourage collaboration and improve communication
-						among stakeholders including the landowner 
-						agencies, volunteers, restoration contractors, interns, and partner conservation organizations.
-						</p><p>
-						Restoration Map's users have entered over 1800 map layers representing 13 years of management work 
-						and experimentation in Chicago-area restoration projects.
-						By integrating long term monitoring data from the Bird Conservation Network (eBird), the Calling Frog 
-						Survey, and other sources, the map provides feedback on the effects of restoration work, therefore 
-						utilizing an adaptive management approach.
-						</p><p>
-						Restoration Map has been developed with the support of the National Audubon Society using all free and 
-						open-source software. The map is built on PHP and MySQL, and uses the Google Earth plugin.</p>
-						<p class="text-info">Learn more at <a href="http://restorationmap.org">http://restorationmap.org</a></p>
-						<br><br><br>
-					</div>
-				</div>
+				</section>
+				<section id="fqa">
 				<hr>
 				<div class="row-fluid">
 					<div class="span6">
@@ -124,7 +139,7 @@
 								<img src="img/code.png" class="img-rounded">
 							</div>
 						</div>
-						<div class="row-fluid">
+						<div class="row-fluid bottom-padding">
 							<div class="span6">
 								<img src="img/fqa2.png" class="img-rounded">
 							</div>
@@ -132,16 +147,26 @@
 								<img src="img/fqa3.png" class="img-rounded">
 							</div>
 						</div>
+						<em>Allium cernuum</em>, <em>Comandra umbellata</em>, <em>Phacelia fimbriata</em>, and some code...
 					</div>
 					<div class="span6">
 						<h4>Universal FQA Calculator</h4>
-						<p>Working with non-profit and volunteer conservation groups, I have developed open source web-based decision 
-						support tools to help document and plan ecological restoration projects.
-						I'm interested in the ways information technology can be used to make spatially explicit conservation management 
-						more collaborative and transparent. Can we build useful tools for conservationists that incorporate metrics of 
-						phylogenetic diversity?</p>
+						<p>The Floristic Quality Assessment (FQA) is a metric of ecological quality developed by Swink and Wilhelm in 1994.
+						FQA is calculated using Coefficients of Conservatism that are assigned to individual plant species based
+						on their endemism to a certain habitat and tolerance to disturbance.</p>
+						<p>
+						Widely used by state and federal agencies as well as conservation non-profits 
+						to monitor and assess natural areas, FQA databases have been developed for much of the United States east of
+						the Rockies. However, all current FQA computer programs only calculate FQA for a single region or habitat,
+						and for many regions FQA must be calculated by hand.
+						This web-based FQA calculator will enable the user to choose from any existing FQA database, and as new FQA 
+						databases are developed they can be uploaded into the site.
+						</p>
+						<p class="text-info">Currently under development.</p>
+						<br><br><br>
 					</div>
 				</div>
+				</section>
 			</div>
 
       		<hr>
