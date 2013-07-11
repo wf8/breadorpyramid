@@ -30,3 +30,11 @@ margin-top: 28px;
 .bottom-padding {
 padding-bottom: 8px;
 }
+
+.no_underline a:hover, a:visited, a:link, a:active {
+text-decoration: none;
+}
+
+.small_text {
+font-size: x-small;
+}
