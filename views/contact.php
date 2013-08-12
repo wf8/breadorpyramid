@@ -13,7 +13,7 @@
 					</address>
 					<address>
 						<strong>Will Freyman</strong><br>
-						<a href="mailto:#">freyman@berkeley.edu</a><br>
+						<a href="mailto:freyman@berkeley.edu">freyman@berkeley.edu</a><br>
 						GitHub: <a href="https://github.com/wf8">https://github.com/wf8</a>
 					</address>
 				</div>
