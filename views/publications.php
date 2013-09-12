@@ -13,8 +13,8 @@
 					<p>Freyman, W.A., S. Packard, J. Pepper. 2012. Restoration Map: a web-based tool for spatially explicit planning of ecological restoration projects. Ecological Society of America Annual Meeting, Portland, OR</p>
 					<p>Freyman, W.A., M.J. Rios, J.P. Olfelt. 2012. Relationships of North American <em>Rhodiola</em> species using DNA sequence data. NEIU Student Research Symposium, Chicago, IL</p>
 					<h4>Articles</h4>
-					<p>Olfelt, J.P., W.A. Freyman. In prep. Molecular phylogeny of the North American <em>Rhodiola</em> (Crassulaceae).</p>
-					<p>Freyman, W.A. In prep. Restoration Map: a web-based tool for spatial and participatory adaptive management of ecological restoration projects.</p>
+					<p>Olfelt, J.P. & W.A. Freyman. In prep. Molecular phylogeny of the North American <em>Rhodiola</em> (Crassulaceae).</p>
+					<p>Freyman, W.A. & K.A. Glennemeier. In review. Restoration Map: a web-based tool for spatial and participatory adaptive management of ecological restoration projects.</p>
 				</div>
       		</div>
       		<hr>
