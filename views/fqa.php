@@ -21,18 +21,21 @@
 					</div>
 					<div class="span6">
 						<h4>Universal FQA Calculator</h4>
-						<p>The Floristic Quality Assessment (FQA) is a metric of ecological quality developed by Swink and Wilhelm in 1994.
-						FQA is calculated using 'coefficients of conservatism' assigned to individual plant species based
+						<p>Floristic Quality Assessments (FQAs) are metrics of ecological quality developed by Swink and Wilhelm in 1994.
+						FQAs are calculated using coefficients of conservatism assigned to individual plant species based
 						on their endemism to a certain habitat and tolerance to disturbance.</p>
 						<p>
 						Widely used by state and federal agencies as well as conservation non-profits 
 						to monitor and assess natural areas, FQA databases have been developed for much of the United States. 
-						However, all current FQA computer programs only calculate FQA for a single region or habitat,
+						However, all previous FQA computer programs only calculated FQA for a single region or habitat,
 						and for many regions FQA must be calculated by hand.
-						This web-based FQA calculator will enable the user to choose from any existing FQA database, and as new FQA 
-						databases are developed they can be uploaded into the site. This project is being developed with support from 
+						This web-based FQA calculator enables the user to choose from any existing FQA database, and as new FQA 
+						databases are developed they can be uploaded into the site. Users can also compare coefficients across databases. 
+						The site has a responsive user interface that can be used in the field on mobile devices.
+						This project was developed with support from 
 						<a href="http://www.openlands.org/">Openlands</a>.
 						</p>
+						<p class="text-info"><a href="http://universalfqa.org">http://universalfqa.org</a></p>
 						<p class="text-info">Source code: <a href="https://github.com/wf8/universalFQA">https://github.com/wf8/universalFQA</a></p>
 						
 					</div>
