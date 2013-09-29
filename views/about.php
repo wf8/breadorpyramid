@@ -9,12 +9,15 @@
 					My research interests revolve around empirical and theoretical aspects of 
 					plant evolution, computational phylogenetics, and biodiversity informatics.</p> 
 					<h4>Plant systematics and evolution</h4>
-					<p>I've been researching the phylogeny and divergence times of the North American <em>Rhodiola</em> 
-					(Crassulaceae) using both nuclear and chloroplast DNA. I am particularly interested in using
-					phylogenomic approaches to resolve the evolutionary history of hybridization within plant groups.</p>
+					<p>
+					Currently, I'm using phylogenomic approaches to study reticulate evolution in <em>Chylismia</em> (Onagraceae).
+					Previously, I worked on the phylogeny and divergence times of the North American <em>Rhodiola</em> 
+					(Crassulaceae) using both nuclear and chloroplast DNA. 
+					With other members of the Baldwin Lab, I'm also working on the phylogeny of <em>Hesperolinon</em> (Linaceae).
+					</p>
 					<h4>Computational phylogenetics</h4>
 					<p>How do we model the evolution of traits responsible for diversification 
-					on molecular phylogenies? How can we infer phylogenetic networks to better understand reticulate evolution?
+					on molecular phylogenies? How can we infer phylogenetic networks to better understand the role of hybridization in evolution?
 					I'm very interested in the theoretical and computational challenges involved in statistical
 					phylogenetic inference.</p>
 					<h4>Biodiversity informatics</h4>
