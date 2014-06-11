@@ -1,7 +1,7 @@
       		<br><br>
 			<div class="row-fluid">	
 				<div class="span3">
-					 <img src="/assets/img/me.png" width="164" height="177" class="img-rounded"> 
+					 <img src="/assets/img/me.jpg" width="164"  class="img-rounded"> 
 				</div>	
 				<div class="span7"> 
 					<h4>Hello</h4>
@@ -16,10 +16,12 @@
 					With other members of the Baldwin Lab, I'm also working on the phylogeny of <em>Hesperolinon</em> (Linaceae).
 					</p>
 					<h4>Computational phylogenetics</h4>
-					<p>How do we model the evolution of traits responsible for diversification 
-					on molecular phylogenies? How can we infer phylogenetic networks to better understand the role of hybridization in evolution?
-					I'm very interested in the theoretical and computational challenges involved in statistical
-					phylogenetic inference.</p>
+					<p>
+                    I've developed software to data mine GenBank and construct supermatrices for large-scale phylogenetic analyses.
+                    I'm also interested in developing Bayesian methods that reconcile incongruent gene trees by 
+                    modeling hybridization and incomplete lineage sorting.
+                    With these methods I hope to infer phylogenetic networks that explicitly represent the history of reticulate evolutionary events.
+					</p>
 					<h4>Biodiversity informatics</h4>
 					<p>Working with non-profit and volunteer conservation groups, I have developed open source web-based tools to help manage and assess conservation projects.
 					I'm interested in building tools that visualize biodiversity data and help make conservation management 
