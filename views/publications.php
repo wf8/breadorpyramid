@@ -16,7 +16,7 @@
 					<p>Freyman, W.A., M.J. Rios, and J.P. Olfelt. 2012. Relationships of North American <em>Rhodiola</em> species using DNA sequence data. NEIU Student Research Symposium, Chicago, IL</p>
 					<h4>Articles</h4>
                     <p>Freyman, W.A. In prep. Patterns of biogeography and chromosome evolution in Onagraceae: a fossil-calibrated supermatrix analysis.</p>
-                    <p>Freyman, W.A. In prep. SUMAC: GenBank data miner and phylogenetic supermatrix constructor.</p>
+                    <p>Freyman, W.A. In prep. SUMAC: software for constructing phylogenetic supermatrices and assessing partially decisive taxon coverage.</p>
 					<p>Olfelt, J.P. and W.A. Freyman. Accepted. Relationships of the North American <em>Rhodiola</em> (Crassulaceae). <em>Botany</em></p>
 					<p>Freyman, W.A. and K.A. Glennemeier. 2014. Restoration Map: a web-based tool for spatial and participatory adaptive management of ecological restoration projects. <em>Ecological Restoration</em> (32-1)</p>
 				</div>
