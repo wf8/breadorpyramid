@@ -13,8 +13,10 @@
 	          		<?php } ?>
           				<a id="projects_drop" href="#" role="button" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
           				<ul class="dropdown-menu" role="menu" aria-labelledby="projects_drop">
+                        	<li role="presentation"><a role="menuitem" tabindex="-1" href="/chylismia"><em>Chylismia</em> (Onagraceae)</a></li>
                         	<li role="presentation"><a role="menuitem" tabindex="-1" href="/restorationmap">Restoration Map</a></li>
                         	<li role="presentation"><a role="menuitem" tabindex="-1" href="/rhodiola"><em>Rhodiola</em> Phylogenetics</a></li>
+                        	<li role="presentation"><a role="menuitem" tabindex="-1" href="/sumac">SUMAC: Supermatrix Constructor</a></li>
                         	<li role="presentation"><a role="menuitem" tabindex="-1" href="/fqa">Universal FQA Calculator</a></li>
                       	</ul>
                    	</li>

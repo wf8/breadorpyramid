@@ -5,7 +5,7 @@
 				</div>	
 				<div class="span7"> 
 					<h4>Hello</h4>
-					<p>I am a doctoral student in the <a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a> at UC Berkeley. 
+					<p>I am a doctoral student and NSF Fellow in the <a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a> at UC Berkeley. 
 					My research interests revolve around empirical and theoretical aspects of 
 					plant evolution, computational phylogenetics, and biodiversity informatics.</p> 
 					<h4>Plant systematics and evolution</h4>
@@ -17,10 +17,10 @@
 					</p>
 					<h4>Computational phylogenetics</h4>
 					<p>
-                    I've developed software to data mine GenBank and construct supermatrices for large-scale phylogenetic analyses.
-                    I'm also interested in developing Bayesian methods that reconcile incongruent gene trees by 
-                    modeling hybridization and incomplete lineage sorting.
-                    With these methods I hope to infer phylogenetic networks that explicitly represent the history of reticulate evolutionary events.
+                    I'm working on adding Bayesian ancestral state reconstruction functionality to the 
+                    <a href="https://github.com/revbayes/revbayes/wiki">RevBayes</a> project. In RevBayes I've also developed
+                    continuous-time Markov chain models of discrete character evolution, in particular chromosome number evolution.
+                    I've also developed software to data mine GenBank and construct supermatrices for large-scale phylogenetic analyses.
 					</p>
 					<h4>Biodiversity informatics</h4>
 					<p>Working with non-profit and volunteer conservation groups, I have developed open source web-based tools to help manage and assess conservation projects.
