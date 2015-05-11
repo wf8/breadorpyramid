@@ -7,8 +7,9 @@
       		<div class="row-fluid nice_margins">
       			<div class="span12">
 					<h4>Abstracts</h4>
-					<p>Schneider, A.C., Guilliams, C.M., Freyman, W.A., Springer, Y., and B.G. Baldwin. 2014. Species relationships in <em>Hesperolinon</em> (Linaceae) inferred from ITS and chloroplast sequence data. Northern California Botanists Symposium, Chico, CA</p>
-					
+					<p>Freyman, W.A. and B.G. Baldwin. 2015. Integrating cytogenetic, molecular, and paleontological data in a joint Bayesian
+                    phylogenetic analysis: a case study in Onagraceae. Graduate Student Meeting of the California Botanical Society, Claremont, CA. Won <em>Best Overall Presentation</em> Prize.</p>
+                    <p>Schneider, A.C., Guilliams, C.M., Freyman, W.A., Springer, Y., and B.G. Baldwin. 2014. Species relationships in <em>Hesperolinon</em> (Linaceae) inferred from ITS and chloroplast sequence data. Northern California Botanists Symposium, Chico, CA</p>
 					<p>Freyman, W.A. and J.P. Olfelt. 2013. Phylogeny and divergence times among the North American <em>Rhodiola</em> (Crassulaceae) species. Botany 2013, New Orleans, LA</p>
 					<p>Freyman, W.A. and K.A. Glennemeier. 2013. Restoration Map: a tool for stewards to plan and assess restoration projects. Wild Things Conference, Chicago, IL</p>
 					<p>Freyman, W.A., M.J. Rios, and J.P. Olfelt. 2012. Molecular phylogeny of the North American <em>Rhodiola</em> (Crassulaceae). SACNAS National Conference, Seattle, WA</p>
