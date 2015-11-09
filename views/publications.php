@@ -6,21 +6,23 @@
       		</div>
       		<div class="row-fluid nice_margins">
       			<div class="span12">
-					<h4>Abstracts</h4>
-					<p>Freyman, W.A. and B.G. Baldwin. 2015. Integrating cytogenetic, molecular, and paleontological data in a joint Bayesian
-                    phylogenetic analysis: a case study in Onagraceae. Graduate Student Meeting of the California Botanical Society, Claremont, CA. Won <em>Best Overall Presentation</em> Prize.</p>
-                    <p>Schneider, A.C., Guilliams, C.M., Freyman, W.A., Springer, Y., and B.G. Baldwin. 2014. Species relationships in <em>Hesperolinon</em> (Linaceae) inferred from ITS and chloroplast sequence data. Northern California Botanists Symposium, Chico, CA</p>
-					<p>Freyman, W.A. and J.P. Olfelt. 2013. Phylogeny and divergence times among the North American <em>Rhodiola</em> (Crassulaceae) species. Botany 2013, New Orleans, LA</p>
-					<p>Freyman, W.A. and K.A. Glennemeier. 2013. Restoration Map: a tool for stewards to plan and assess restoration projects. Wild Things Conference, Chicago, IL</p>
-					<p>Freyman, W.A., M.J. Rios, and J.P. Olfelt. 2012. Molecular phylogeny of the North American <em>Rhodiola</em> (Crassulaceae). SACNAS National Conference, Seattle, WA</p>
-					<p>Freyman, W.A., S. Packard, and J. Pepper. 2012. Restoration Map: a web-based tool for spatially explicit planning of ecological restoration projects. Ecological Society of America Annual Meeting, Portland, OR</p>
-					<!-- <p>Freyman, W.A., M.J. Rios, and J.P. Olfelt. 2012. Relationships of North American <em>Rhodiola</em> species using DNA sequence data. NEIU Student Research Symposium, Chicago, IL</p>-->
 					<h4>Articles</h4>
-                    <p>Freyman, W.A. In prep. Joint Bayesian inference of phylogeny, divergence times, and chromosome number evolution in Onagraceae.</p>
-                    <p>Schneider, A.C., Freyman, W.A., Guilliams, C.M., Springer, Y., and B.G. Baldwin. In prep. Divergence times of Linaceae and the rapid radiation of <em>Hesperolinon</em>.</p>
-                    <p>Freyman, W.A. Submitted. SUMAC: constructing phylogenetic supermatrices and assessing partially decisive taxon coverage. Submitted to <em>BMC Bioinformatics</em></p>
-					<p>Olfelt, J.P. and W.A. Freyman. 2014. Relationships of the North American <em>Rhodiola</em> (Crassulaceae). <em>Botany</em> 92</p>
-					<p>Freyman, W.A. and K.A. Glennemeier. 2014. Restoration Map: a web-based tool for spatial and participatory adaptive management of ecological restoration projects. <em>Ecological Restoration</em> (32-1)</p>
+                    <p><b>Freyman, W.A.</b> and B.G. Baldwin. Joint Bayesian inference of phylogeny, divergence times, and chromosome number evolution in Onagraceae. In prep.</p>
+                    <p>Schneider, A.C., <b>Freyman, W.A.</b>, Guilliams, C.M., Springer, Y., and B.G. Baldwin. Pleistocene radiation of the serpentine-adapted genus
+                        <em>Hesperolinon</em> and other divergence times in Linaceae (Malpighiales). Submitted, <em>American Journal of Botany</em></p>
+                    <p><b>Freyman, W.A.</b> 2015. SUMAC: constructing phylogenetic supermatrices and assessing partially decisive taxon coverage. Accepted, <em>Evolutionary Bioinformatics</em></p>
+                    <p><b>Freyman, W.A.</b>, L.A. Masters, and S. Packard. 2015. The Universal Floristic Quality Assessment (FQA) Calculator: an online tool for ecological assessment and monitoring. In press at <em>Methods in Ecology and Evolution</em> <a href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12491/abstract">[html]</a> <a href="/assets/pdf/2015_Freyman_Masters_Packard_FQA.pdf">[pdf]</a></p>
+					<p>Olfelt, J.P. and <b>W.A. Freyman</b>. 2014. Relationships of North American members of <em>Rhodiola</em> (Crassulaceae). <em>Botany</em> 92 <a href="http://www.nrcresearchpress.com/doi/abs/10.1139/cjb-2014-0009">[html]</a> <a href="/assets/pdf/2014_Olfelt_Freyman_Rhodiola.pdf">[pdf]</a></p>
+					<p><b>Freyman, W.A.</b> and K.A. Glennemeier. 2014. Restoration Map: a web-based tool for spatial and participatory adaptive management of ecological restoration projects. <em>Ecological Restoration</em> (32-1) <a href="http://er.uwpress.org/content/32/1/3.full.pdf+html">[html]</a> <a href="/assets/pdf/2014_Freyman_Glennemeier_Restoration_Map.pdf">[pdf]</a></p>
+					<h4>Abstracts</h4>
+					<p><b>Freyman, W.A.</b> and B.G. Baldwin. 2015. Integrating cytogenetic, molecular, and paleontological data in a joint Bayesian
+                    phylogenetic analysis: a case study in Onagraceae. Graduate Student Meeting of the California Botanical Society, Claremont, CA. Won <em>Best Overall Presentation</em> Prize.</p>
+                    <p>Schneider, A.C., Guilliams, C.M., <b>Freyman, W.A.</b>, Springer, Y., and B.G. Baldwin. 2014. Species relationships in <em>Hesperolinon</em> (Linaceae) inferred from ITS and chloroplast sequence data. Northern California Botanists Symposium, Chico, CA</p>
+					<p><b>Freyman, W.A.</b> and J.P. Olfelt. 2013. Phylogeny and divergence times among the North American <em>Rhodiola</em> (Crassulaceae) species. Botany 2013, New Orleans, LA</p>
+					<p><b>Freyman, W.A.</b> and K.A. Glennemeier. 2013. Restoration Map: a tool for stewards to plan and assess restoration projects. Wild Things Conference, Chicago, IL</p>
+					<p><b>Freyman, W.A.</b>, M.J. Rios, and J.P. Olfelt. 2012. Molecular phylogeny of the North American <em>Rhodiola</em> (Crassulaceae). SACNAS National Conference, Seattle, WA</p>
+					<p><b>Freyman, W.A.</b>, S. Packard, and J. Pepper. 2012. Restoration Map: a web-based tool for spatially explicit planning of ecological restoration projects. Ecological Society of America Annual Meeting, Portland, OR</p>
+					<!-- <p>Freyman, W.A., M.J. Rios, and J.P. Olfelt. 2012. Relationships of North American <em>Rhodiola</em> species using DNA sequence data. NEIU Student Research Symposium, Chicago, IL</p>-->
 				</div>
       		</div>
       		<hr>

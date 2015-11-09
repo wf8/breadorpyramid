@@ -1,5 +1,5 @@
       		<div class="footer">
-        		<p><a href="http://breadorpyramid.org">breadorpyramid.org</a> &copy; Will Freyman 2014</p>
+        		<p><a href="http://willfreyman.org">willfreyman.org</a> &copy; Will Freyman 2015</p>
       		</div>
 		</div> 
 		<script>

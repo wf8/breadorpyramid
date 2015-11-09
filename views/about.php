@@ -5,7 +5,7 @@
 				</div>	
 				<div class="span7"> 
 					<h4>Hello</h4>
-					<p>I am a doctoral student and NSF Fellow in the <a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a> at UC Berkeley. 
+					<p>I am a doctoral candidate and NSF Fellow in the <a href="http://ucjeps.berkeley.edu/Baldwin-Lab.html">Baldwin Lab</a> at UC Berkeley. 
 					My research interests revolve around empirical and theoretical aspects of 
 					plant evolution, computational phylogenetics, and biodiversity informatics.</p> 
 					<h4>Plant systematics and evolution</h4>
