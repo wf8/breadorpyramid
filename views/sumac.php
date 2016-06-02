@@ -32,8 +32,8 @@
                         SUMAC is implemented as a Python package that can run as a stand-alone command line program,
                         or its modules and objects can be incorporated within other programs.
                         </p><p>
-                        SUMAC is still under development, but a nearly complete beta version is available at <a href="https://github.com/wf8/sumac">https://github.com/wf8/sumac</a>, 
-                        and is released under the open source <a href="http://www.opensource.org/licenses/gpl-3.0.html">GPLv3 license</a>.
+                        SUMAC will work on Linux/OSX (not MS Windows), and is available at <a href="https://github.com/wf8/sumac">https://github.com/wf8/sumac</a> 
+                        under the open source <a href="http://www.opensource.org/licenses/gpl-3.0.html">GPLv3 license</a>.
                         </p>
 					</div>
 				</div>

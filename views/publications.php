@@ -8,11 +8,17 @@
       			<div class="span12">
 					<h4>Articles</h4>
                     <p><b>Freyman, W.A.</b> and B.G. Baldwin. Joint Bayesian inference of phylogeny, divergence times, and chromosome number evolution in Onagraceae. In prep.</p>
-                    <p>Schneider, A.C., <b>Freyman, W.A.</b>, Guilliams, C.M., Springer, Y., and B.G. Baldwin. Pleistocene radiation of the serpentine-adapted genus
-                        <em>Hesperolinon</em> and other divergence times in Linaceae (Malpighiales). Submitted, <em>American Journal of Botany</em></p>
-                    <p><b>Freyman, W.A.</b> 2015. SUMAC: constructing phylogenetic supermatrices and assessing partially decisive taxon coverage. Accepted, <em>Evolutionary Bioinformatics</em></p>
-                    <p><b>Freyman, W.A.</b>, L.A. Masters, and S. Packard. 2015. The Universal Floristic Quality Assessment (FQA) Calculator: an online tool for ecological assessment and monitoring. In press at <em>Methods in Ecology and Evolution</em> <a href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12491/abstract">[html]</a> <a href="/assets/pdf/2015_Freyman_Masters_Packard_FQA.pdf">[pdf]</a></p>
-					<p>Olfelt, J.P. and <b>W.A. Freyman</b>. 2014. Relationships of North American members of <em>Rhodiola</em> (Crassulaceae). <em>Botany</em> 92 <a href="http://www.nrcresearchpress.com/doi/abs/10.1139/cjb-2014-0009">[html]</a> <a href="/assets/pdf/2014_Olfelt_Freyman_Rhodiola.pdf">[pdf]</a></p>
+                    <p><b>Freyman, W.A.</b> and S. H&ouml;hna. Cladogenetic and anagenetic models of chromosome number evolution: a Bayesian model averaging approach. In prep.</p>
+                    <p>Schneider, A.C., <b>Freyman, W.A.</b>, Guilliams, C.M., Springer, Y., and B.G. Baldwin. 2016. Pleistocene radiation of the serpentine-adapted genus
+                        <em>Hesperolinon</em> and other divergence times in Linaceae (Malpighiales). <em>American Journal of Botany</em> 103(1): 1-12
+                        <a href="http://www.amjbot.org/content/early/2016/02/04/ajb.1500379.abstract">[html]</a>
+                        <a href="/assets/pdf/2016_Schneider_et_al.pdf">[pdf]</a>
+                        </p>
+                    <p><b>Freyman, W.A.</b> 2015. SUMAC: constructing phylogenetic supermatrices and assessing partially decisive taxon coverage. <em>Evolutionary Bioinformatics</em> 2015:11 263-266 
+                    <a href="http://www.la-press.com/sumac-constructing-phylogenetic-supermatrices-and-assessing-partially--article-a5232">[html]</a> 
+                    <a href="http://www.la-press.com/redirect_file.php?fileId=6991&filename=5232-EBO-SUMAC:-Constructing-Phylogenetic-Supermatrices-and-Assessing-Partially.pdf&fileType=pdf">[pdf]</a></p>
+                    <p><b>Freyman, W.A.</b>, L.A. Masters, and S. Packard. 2015. The Universal Floristic Quality Assessment (FQA) Calculator: an online tool for ecological assessment and monitoring. In press, <em>Methods in Ecology and Evolution</em> <a href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12491/abstract">[html]</a> <a href="/assets/pdf/2015_Freyman_Masters_Packard_FQA.pdf">[pdf]</a></p>
+					<p>Olfelt, J.P. and <b>W.A. Freyman</b>. 2014. Relationships of North American members of <em>Rhodiola</em> (Crassulaceae). <em>Botany</em> 92(12): 901-910 <a href="http://www.nrcresearchpress.com/doi/abs/10.1139/cjb-2014-0009">[html]</a> <a href="/assets/pdf/2014_Olfelt_Freyman_Rhodiola.pdf">[pdf]</a></p>
 					<p><b>Freyman, W.A.</b> and K.A. Glennemeier. 2014. Restoration Map: a web-based tool for spatial and participatory adaptive management of ecological restoration projects. <em>Ecological Restoration</em> (32-1) <a href="http://er.uwpress.org/content/32/1/3.full.pdf+html">[html]</a> <a href="/assets/pdf/2014_Freyman_Glennemeier_Restoration_Map.pdf">[pdf]</a></p>
 					<h4>Abstracts</h4>
 					<p><b>Freyman, W.A.</b> and B.G. Baldwin. 2015. Integrating cytogenetic, molecular, and paleontological data in a joint Bayesian
