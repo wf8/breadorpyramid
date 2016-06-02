@@ -38,6 +38,7 @@
 						The map is built on PHP and MySQL, and uses the Google Earth plugin.</p>
 						<p class="text-info">Learn more at <a href="http://restorationmap.org">http://restorationmap.org</a></p>
 						<p class="text-info">Source code: <a href="https://github.com/wf8/restorationmap">https://github.com/wf8/restorationmap</a></p>
+                        <p><b>Citation:</b><br>Freyman, W.A. and K.A. Glennemeier. 2014. Restoration Map: a web-based tool for spatial and participatory adaptive management of ecological restoration projects. <em>Ecological Restoration</em> (32-1) <a href="http://er.uwpress.org/content/32/1/3.full.pdf+html">[html]</a> <a href="/assets/pdf/2014_Freyman_Glennemeier_Restoration_Map.pdf">[pdf]</a></p>
 					</div>
 				</div>
 			</div>

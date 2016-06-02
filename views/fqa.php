@@ -37,7 +37,7 @@
 						</p>
 						<p class="text-info"><a href="http://universalfqa.org">http://universalfqa.org</a></p>
 						<p class="text-info">Source code: <a href="https://github.com/wf8/universalFQA">https://github.com/wf8/universalFQA</a></p>
-						
+					    <p><b>Citation:</b><br>Freyman, W.A., L.A. Masters, and S. Packard. 2016. The Universal Floristic Quality Assessment (FQA) Calculator: an online tool for ecological assessment and monitoring. <em>Methods in Ecology and Evolution</em> 7(3): 380–383 <a href="http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12491/abstract">[html]</a> <a href="/assets/pdf/2015_Freyman_Masters_Packard_FQA.pdf">[pdf]</a></p>	
 					</div>
 				</div>
 			</div>

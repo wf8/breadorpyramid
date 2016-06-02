@@ -14,7 +14,8 @@
 					<address>
 						<strong>Will Freyman</strong><br>
 						<a href="mailto:freyman@berkeley.edu">freyman@berkeley.edu</a><br>
-						GitHub: <a href="https://github.com/wf8">https://github.com/wf8</a>
+						<a href="https://github.com/wf8">https://github.com/wf8</a><br>
+                        <a href="https://bitbucket.org/willfreyman">https://bitbucket.org/willfreyman</a>
 					</address>
 				</div>
       		</div>

@@ -2,19 +2,19 @@
 				<div class="row-fluid">
 					<div class="span4">
 						<div class="row-fluid">
-                            <div class="span2 bottom-padding"></div>
+							<div class="span2 bottom-padding"></div>
 							<div class="span8 bottom-padding">
 								<img src="/assets/img/sumac.jpg" class="img-rounded">
-                                <br><br><br>
+                                <br><br><br><br>
 							</div>
-                            <div class="span2 bottom-padding"></div>
+							<div class="span2 bottom-padding"></div>
 						</div>
 						<div class="row-fluid">
-                            <div class="span2 bottom-padding"></div>
+							<div class="span2 bottom-padding"></div>
 							<div class="span8 bottom-padding">
                                 <img src="/assets/img/MSDS.jpg" class="img-rounded">
 							</div>
-                            <div class="span2 bottom-padding"></div>
+							<div class="span2 bottom-padding"></div>
 						</div>
 					</div>
 					<div class="span8">
@@ -32,9 +32,13 @@
                         SUMAC is implemented as a Python package that can run as a stand-alone command line program,
                         or its modules and objects can be incorporated within other programs.
                         </p><p>
-                        SUMAC will work on Linux/OSX (not MS Windows), and is available at <a href="https://github.com/wf8/sumac">https://github.com/wf8/sumac</a> 
+                        SUMAC works on Linux/OSX (not MS Windows), and is available at <a href="https://github.com/wf8/sumac">https://github.com/wf8/sumac</a> 
                         under the open source <a href="http://www.opensource.org/licenses/gpl-3.0.html">GPLv3 license</a>.
                         </p>
+                        <p><b>Citation:</b><br>
+                        Freyman, W.A. 2015. SUMAC: constructing phylogenetic supermatrices and assessing partially decisive taxon coverage. <em>Evolutionary Bioinformatics</em> 2015:11 263-266
+                           <a href="http://www.la-press.com/sumac-constructing-phylogenetic-supermatrices-and-assessing-partially--article-a5232">[html]</a>
+                           <a href="http://www.la-press.com/redirect_file.php?fileId=6991&filename=5232-EBO-SUMAC:-Constructing-Phylogenetic-Supermatrices-and-Assessing-Partially.pdf&fileType=pdf">[pdf]</a></p>
 					</div>
 				</div>
 			</div>
