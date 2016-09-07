@@ -15,7 +15,7 @@
                         <p>I'm a regular contributor to the software <a href="http://revbayes.com">RevBayes</a>,
                         where I've worked on ancestral state reconstruction functionality,
                         developed continuous-time Markov chain models of discrete character evolution, in particular chromosome number evolution,
-                        and coalescent models to estimate ancient introgression/hybridization events over a phylogeny.
+                        and implemented coalescent models to estimate ancient introgression/hybridization events over a phylogeny.
                         </p>
                         <p class="text-info"><a href="http://revbayes.com">http://revbayes.com</a></p>
 					</div>

@@ -7,8 +7,9 @@
       		<div class="row-fluid nice_margins">
       			<div class="span12">
 					<h4>Articles</h4>
-                    <p><b>Freyman, W.A.</b> and B.G. Baldwin. Joint Bayesian inference of phylogeny, divergence times, and chromosome number evolution in Onagraceae. In prep.</p>
+                    <p><b>Freyman, W.A.</b>. Bayesian inference of ancestral states using joint conditional character mapping and applications to chromosome evolution in Onagraceae. In prep.</p>
                     <p><b>Freyman, W.A.</b> and S. H&ouml;hna. Cladogenetic and anagenetic models of chromosome number evolution: a Bayesian model averaging approach. In prep.</p>
+                    Baldwin, B.G., Thornhill, A.H., <b>Freyman, W.A.</b>, Ackerly, D.D., Kling, M.M., Morueta-Holme, N., and B.D. Mishler. Species richness and endemism in the California flora. Submitted to <em>American Journal of Botany</em>.</p>
                     <p>Schneider, A.C., <b>Freyman, W.A.</b>, Guilliams, C.M., Springer, Y., and B.G. Baldwin. 2016. Pleistocene radiation of the serpentine-adapted genus
                         <em>Hesperolinon</em> and other divergence times in Linaceae (Malpighiales). <em>American Journal of Botany</em> 103(1): 1-12
                         <a href="http://www.amjbot.org/content/early/2016/02/04/ajb.1500379.abstract">[html]</a>
@@ -23,7 +24,7 @@
 					<h4>Abstracts</h4>
                     <p><b>Freyman, W.A.</b>. 2016. Cladogenetic and anagenetic models of chromosome number evolution: model averaging using reversible jump MCMC. Evolution 2016, Austin, TX.
                     <p>Sheth, S.N., <b>Freyman, W.A.</b>, Baldwin, B.G., and D.D. Ackerly. 2016. Relationships among rates of climatic niche evolution and diversification. Evolution 2016, Austin, TX.
-                    <p><b>Freyman, W.A.</b> and B.G. Baldwin. Phylogeny, divergence times, and chromosome number evolution of Onagraceae using anagenetic and cladogenetic models of chromosome evolution. Botany 2016, Savannah, GA</p>
+                    <p><b>Freyman, W.A.</b> H&ouml;hna, S., and B.G. Baldwin. Phylogenetic models of chromosome number evolution and chromosomal speciation. Botany 2016, Savannah, GA</p>
                     <p>Jordon-Thaden, I.E., <b>Freyman, W.A.</b>, Ruhfel, B.R., Martine, C. 2016. Glacial relict speciation of the Appalachian diploid <em>Draba ramosissima</em> (Brassicaceae). Botany 2016, Savannah, GA</p>
                     <p>Thornhill, A.H., Baldwin, B,G., <b>Freyman, W.A.</b>, Nosratinia, S., Morueta-Holme, N., Kling, M., Baxter, D., Madsen, T., Ackerly, D.D., B.D. Mishler. Hotspots of phylogenetic richness and endemism in the California flora. Botany 2016, Savannah, GA</p>
                     <p>Mishler, B.D., Thornhill, A.H., Kling, M., <b>Freyman, W.A.</b>, Ackerly, D.D., B.G. Baldwin. Hotspots of species richness and endemism in the California flora. Botany 2016, Savannah, GA</p>

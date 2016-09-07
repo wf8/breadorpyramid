@@ -1,7 +1,8 @@
       		<br><br>
 			<div class="row-fluid">	
 				<div class="span3">
-					 <img src="/assets/img/me_3.jpg" width="168"  class="img-rounded"> 
+					 <!-- <img src="/assets/img/me_3.jpg" width="168"  class="img-rounded"> -->
+					 <img src="/assets/img/jmt2.jpg" width="168"  class="img-rounded"> 
 				</div>	
 				<div class="span7"> 
 					<h4>Hello</h4>

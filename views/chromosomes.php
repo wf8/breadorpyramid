@@ -50,7 +50,7 @@
                             have enabled the inference of ancestral chromosome numbers over molecular phylogenies and 
                             generated new interest in studying the role of chromosome changes in evolution.
                             However, these models assume all changes occur anagenetically (along branches),
-                            and does not model events that are specifically cladogenetic and may be expected if chromosomal
+                            and do not model events that are specifically cladogenetic and may be expected if chromosomal
                             changes result in reproductive isolation.
                         </p><p>
                             In this research I've developed a class of models of chromosome number evolution
@@ -60,7 +60,7 @@
                             chromosome evolution occurring primarily within lineages, primarily at lineage
                             splitting, or in clade-specific combinations of both? By identifying how much of the
                             pattern of chromosome number evolution is explained by anagenetic versus
-                            cladogenetic change, we can begin to uncover how much of a role chromosomal
+                            cladogenetic change, we can help uncover how much of a role chromosomal
                             changes play in speciation.
 						</p>
 					</div>

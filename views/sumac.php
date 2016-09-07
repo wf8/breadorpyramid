@@ -18,7 +18,9 @@
 						</div>
 					</div>
 					<div class="span8">
-						<h4>SUMAC</h4>
+						<h4>SUMAC 2.0</h4>
+                        <p>8/2016: SUMAC version 2.0 is <i>significantly</i> faster than previous versions due to the
+                        use of a new clustering algorithm.</p>
                         <p>Supermatrix Constructor (SUMAC) is a tool to data-mine GenBank, construct phylogenetic supermatrices,
                         and assess the decisiveness of a matrix given the pattern of missing sequence data.
                         SUMAC calculates a novel metric, Missing Sequence Decisiveness Scores (MSDS), which measure how
@@ -28,11 +30,11 @@
                         SUMAC constructs supermatrices either through an exploratory clustering of all GenBank sequences within a taxonomic group,
                         or by using guide sequences to build homologous clusters in a more targeted manner.
                         SUMAC will assemble supermatrices for any taxonomic group recognized in GenBank, and is optimized to run
-                        on multicore processors and clusters by utilizing multiple parallel processes.
+                        on multicore processors by utilizing multiple parallel processes.
                         SUMAC is implemented as a Python package that can run as a stand-alone command line program,
                         or its modules and objects can be incorporated within other programs.
-                        </p><p>
-                        SUMAC works on Linux/OSX (not MS Windows), and is available at <a href="https://github.com/wf8/sumac">https://github.com/wf8/sumac</a> 
+                        </p>
+                        <p>SUMAC works on Linux/OSX (not MS Windows), and is available at <a href="https://github.com/wf8/sumac">https://github.com/wf8/sumac</a> 
                         under the open source <a href="http://www.opensource.org/licenses/gpl-3.0.html">GPLv3 license</a>.
                         </p>
                         <p><b>Citation:</b><br>
