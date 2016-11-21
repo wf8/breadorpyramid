@@ -8,8 +8,11 @@
       			<div class="span12">
 					<h4>Articles</h4>
                     <p><b>Freyman, W.A.</b>. Bayesian inference of ancestral states using joint conditional character mapping and applications to chromosome evolution in Onagraceae. In prep.</p>
-                    <p><b>Freyman, W.A.</b> and S. H&ouml;hna. Cladogenetic and anagenetic models of chromosome number evolution: a Bayesian model averaging approach. In prep.</p>
-                    Baldwin, B.G., Thornhill, A.H., <b>Freyman, W.A.</b>, Ackerly, D.D., Kling, M.M., Morueta-Holme, N., and B.D. Mishler. Species richness and endemism in the California flora. Submitted to <em>American Journal of Botany</em>.</p>
+                    <p><b>Freyman, W.A.</b> and S. H&ouml;hna. Cladogenetic and anagenetic models of chromosome number evolution: a Bayesian model averaging approach. Submitted to <em>Systematic Biology</em>.
+                        <a href="http://biorxiv.org/content/early/2016/11/16/086629">[preprint]</a>
+                        </p>
+                    <p>Scherson, R.A., Thornhill, A.H., Urbina-Casanova, R., <b>Freyman, W.A.</b>, Pliscoff, P.A., B.D. Mishler. Spatial phylogenetics of the vascular flora of Chile. Submitted to <em>Diversity and Distributions</em>.</p>
+                    <p>Baldwin, B.G., Thornhill, A.H., <b>Freyman, W.A.</b>, Ackerly, D.D., Kling, M.M., Morueta-Holme, N., and B.D. Mishler. Species richness and endemism in the California flora. Submitted to <em>American Journal of Botany</em>.</p>
                     <p>Schneider, A.C., <b>Freyman, W.A.</b>, Guilliams, C.M., Springer, Y., and B.G. Baldwin. 2016. Pleistocene radiation of the serpentine-adapted genus
                         <em>Hesperolinon</em> and other divergence times in Linaceae (Malpighiales). <em>American Journal of Botany</em> 103(1): 1-12
                         <a href="http://www.amjbot.org/content/early/2016/02/04/ajb.1500379.abstract">[html]</a>
