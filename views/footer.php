@@ -1,5 +1,5 @@
       		<div class="footer">
-        		<p><a href="http://willfreyman.org">willfreyman.org</a> &copy; Will Freyman 2016</p>
+        		<p><a href="http://willfreyman.org">willfreyman.org</a> &copy; Will Freyman 2017</p>
       		</div>
 		</div> 
 		<script>
@@ -7,7 +7,7 @@
 		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
 		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-		  ga('create', 'UA-44045275-3', 'breadorpyramid.org');
+		  ga('create', 'UA-44045275-3', 'willfreyman.org');
 		  ga('send', 'pageview');
 		</script>
 	</body>

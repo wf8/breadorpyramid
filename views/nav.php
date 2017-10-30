@@ -1,7 +1,7 @@
     	<div class="container-narrow">
       		<div class="masthead">
         		<ul class="nav nav-pills pull-right">
-        			<?php if ($active == 'about') { ?>
+        			<?php if ($active == 'about' || $active == '') { ?>
           				<li class="active"><a href="/about">About</a></li>
           			<?php } else { ?>
           				<li><a href="/about">About</a></li>

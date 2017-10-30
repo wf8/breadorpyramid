@@ -3,18 +3,18 @@
 					<div class="span6">
 						<div class="row-fluid">
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/fqa1.png" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/fqa1.png" class="img-rounded">
 							</div>
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/code.png" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/code.png" class="img-rounded">
 							</div>
 						</div>
 						<div class="row-fluid bottom-padding">
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/fqa2.png" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/fqa2.png" class="img-rounded">
 							</div>
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/fqa3.png" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/fqa3.png" class="img-rounded">
 							</div>
 						</div>
 						<em>Allium cernuum</em>, <em>Comandra umbellata</em>, <em>Phacelia fimbriata</em>, and some code...

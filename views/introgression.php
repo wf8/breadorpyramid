@@ -1,36 +1,36 @@
-			<div class="nice_margins">
-				<div class="row-fluid">
+		    <div class="nice_margins">
+                <div class="row-fluid">
 					<div class="span6">
 						<div class="row-fluid">
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/mojave.jpg" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/mojave.jpg" class="img-rounded">
 							</div>
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/brevipes.jpg" width="168" height="168" class="img-rounded">
-							</div>
-						</div>
-						<div class="row-fluid">
-							<div class="span6 bottom-padding">
-								<img src="/assets/img/claviformis.jpg" width="168" height="168" class="img-rounded">
-							</div>
-							<div class="span6 bottom-padding">
-								<img src="/assets/img/onag_big2.jpg" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/brevipes.jpg" class="img-rounded">
 							</div>
 						</div>
 						<div class="row-fluid">
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/chromosomes.jpg" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/claviformis.jpg" class="img-rounded">
 							</div>
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/floral_evo.jpg" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/onag_big2.jpg" class="img-rounded">
 							</div>
 						</div>
 						<div class="row-fluid">
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/onag_big1.jpg" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/chromosomes.jpg" class="img-rounded">
 							</div>
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/introgression.jpg" width="168" class="img-rounded">
+								<img src="/assets/img/floral_evo.jpg" class="img-rounded">
+							</div>
+						</div>
+						<div class="row-fluid">
+							<div class="span6 bottom-padding">
+								<img src="/assets/img/onag_big1.jpg" class="img-rounded">
+							</div>
+							<div class="span6 bottom-padding">
+								<img src="/assets/img/introgression.jpg" class="img-rounded">
 							</div>
 						</div>
 					</div>

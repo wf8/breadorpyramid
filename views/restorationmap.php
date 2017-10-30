@@ -3,18 +3,18 @@
 					<div class="span6">
 						<div class="row-fluid">
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/rm1-1.png" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/rm1-1.png" class="img-rounded">
 							</div>
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/rm1-7.png" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/rm1-7.png" class="img-rounded">
 							</div>
 						</div>
 						<div class="row-fluid">
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/rm1-3.png" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/rm1-3.png" class="img-rounded">
 							</div>
 							<div class="span6 bottom-padding">
-								<img src="/assets/img/rm1-4.png" width="168" height="168" class="img-rounded">
+								<img src="/assets/img/rm1-4.png" class="img-rounded">
 							</div>
 						</div>
 					</div>
