@@ -9,8 +9,12 @@
 					<h4>Articles</h4>
                     <!--<p><b>Freyman, W.A.</b>. Phylogenetic evidence for the higher frequency of polyploidization in self-compatible lineages of Onagraceae. In prep.</p>-->
                     <p><b>Freyman, W.A.</b> and S.N. Sheth. A Bayesian hierarchical model for detecting correlated rates of niche evolution and diversification. In prep.</p>
-                    <p><b>Freyman, W.A.</b> and S. H&ouml;hna. Stochastic character mapping of state-dependent diversification reveals the tempo of evolutionary decline in self-compatible lineages. Submitted to <em>PNAS</em>.</p>
-                    <p>Freund, F.D., <b>Freyman, W.A.</b> and C.J. Rothfels. Inferring the evolutionary reduction of corm lobation in <i>Isoëtes</i> using Bayesian model-averaged ancestral state reconstruction. Submitted to <em>American Journal of Botany</em></p>
+                    <p><b>Freyman, W.A.</b> and S. H&ouml;hna. Stochastic character mapping of state-dependent diversification reveals the tempo of evolutionary decline in self-compatible lineages. Submitted to <em>PNAS</em>.
+                    <a href="https://www.biorxiv.org/content/early/2017/10/28/210484">[preprint]</a>
+                    </p>
+                    <p>Freund, F.D., <b>Freyman, W.A.</b> and C.J. Rothfels. Inferring the evolutionary reduction of corm lobation in <i>Isoëtes</i> using Bayesian model-averaged ancestral state reconstruction. Submitted to <em>American Journal of Botany</em>.
+                    <a href="https://www.biorxiv.org/content/early/2017/11/01/212316">[preprint]</a>
+                    </p>
                     <p>Thornhill, A.H., Baldwin, B.G., <b>Freyman, W.A.</b>, Nosratinia, S., Kling, M.M., Morueta-Holme, N., Madsen, T.P., Ackerly, D.D., and B.D. Mishler. 2017. Spatial phylogenetics of the native California flora. <em>BMC Biology</em> 15:96
                     <a href="https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0435-x">[journal]</a>
                     <a href="/assets/pdf/2017_Thornhill_et_al.pdf">[pdf]</a>
