@@ -20,7 +20,7 @@
 						<em>Allium cernuum</em>, <em>Comandra umbellata</em>, <em>Phacelia fimbriata</em>, and some code...
 					</div>
 					<div class="span6">
-						<h4>Universal FQA Calculator</h4>
+						<h3>Universal FQA Calculator</h3>
 						<p>Floristic Quality Assessments (FQAs) are metrics of ecological quality developed by Swink and Wilhelm in 1994.
 						FQAs are calculated using coefficients of conservatism assigned to individual plant species based
 						on their endemism to a certain habitat and tolerance to disturbance.</p>

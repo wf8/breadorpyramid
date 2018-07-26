@@ -35,7 +35,7 @@
                         -->
 					</div>
 					<div class="span6">
-						<h4>Cladogenetic and anagenetic models of chromosome number evolution: model averaging using reversible jump MCMC</h4>
+						<h4><b>Cladogenetic and anagenetic models of chromosome number evolution: model averaging using reversible jump MCMC</b></h4>
 						<p>
                         The fundamental role that chromosomal changes play in evolution was confirmed
                          in Dobzhansky's groundbreaking <em>Genetics and the Origin of Species</em> 

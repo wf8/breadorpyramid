@@ -11,7 +11,7 @@
 						</div>
 					</div>
 					<div class="span8">
-						<h4>RevBayes</h4>
+						<h3>RevBayes</h3>
                         <p>I'm a regular contributor to the software <a href="http://revbayes.com">RevBayes</a>,
                         where I've worked on ancestral state reconstruction functionality and
                         developed both continuous-time Markov chain and state-dependent speciation and extinction

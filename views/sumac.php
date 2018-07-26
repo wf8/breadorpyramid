@@ -18,7 +18,7 @@
 						</div>
 					</div>
 					<div class="span8">
-						<h4>SUMAC 2.0</h4>
+						<h3>SUMAC 2.0</h3>
                         <p>8/2016: SUMAC version 2.0 is <i>significantly</i> faster than previous versions due to the
                         use of a new clustering algorithm.</p>
                         <p>Supermatrix Constructor (SUMAC) is a tool to data-mine GenBank, construct phylogenetic supermatrices,

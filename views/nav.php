@@ -22,11 +22,13 @@
                       	</ul>
                    	</li>
                     -->
+                    <!--
 					<?php if ($active == 'research') { ?>
           				<li class="active"><a href="/research">Research</a></li>
           			<?php } else { ?>
           				<li><a href="/research">Research</a></li>
           			<?php } ?>
+                    -->
 					<?php if ($active == 'publications') { ?>
           				<li class="active"><a href="/publications">Publications</a></li>
           			<?php } else { ?>
@@ -43,5 +45,5 @@
           				<li><a href="/contact">Contact</a></li>
           			<?php } ?>
         		</ul>
-        		<h3 class="muted"><a class="muted no_underline" href="http://willfreyman.org">Will Freyman</a></h3>
+        		<h2 class="muted"><a class="muted no_underline" href="http://willfreyman.org">Will Freyman</a></h2>
       		</div>

@@ -34,7 +34,7 @@
 						</div>
 					</div>
 					<div class="span6">
-						<h4>The genomic architecture of reticulate evolution: phylogenomics and hybridization in <em>Chylismia</em> (Onagraceae)</h4>
+						<h3>The genomic architecture of reticulate evolution: phylogenomics and hybridization in <em>Chylismia</em> (Onagraceae)</h3>
 						<p>
 Increasingly, hybridization is understood to be an important evolutionary process in a substantial portion of many plant and animal groups. 
 One explanation for the extent of hybridization can be found in G. Ledyard Stebbins’ 1959 hypothesis that hybridization acts as an evolutionary catalyst 

@@ -35,7 +35,7 @@
 						</div>
 					</div>
 					<div class="span6">
-						<h4>Detecting introgression in the presence of incomplete lineage sorting: phylogenomics and hybridization in <em>Chylismia</em> (Onagraceae)</h4>
+						<h4><b>Detecting introgression in the presence of incomplete lineage sorting: phylogenomics and hybridization in <em>Chylismia</em> (Onagraceae)</b></h4>
 						<p>
 Increasingly, hybridization is understood to be an important evolutionary process in a substantial portion of many plant and animal groups. 
 One explanation for the extent of hybridization can be found in G. Ledyard Stebbins’ 1959 hypothesis that hybridization acts as an evolutionary catalyst 

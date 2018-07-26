@@ -1,19 +1,24 @@
-			<div class="row-fluid nice_margins">
-				<div class="span12">
+            <div class="row-fluid nice_margins">
+               <div class="span12">
 					<img src="/assets/img/bearcanister.jpg" class="img-rounded"><br>
 					<em>Chamerion latifolium</em> (Onagraceae)
 				</div>
       		</div>
       		<div class="row-fluid nice_margins">
       			<div class="span12">
-					<h4>Articles</h4>
+					<h3>Articles</h3>
                     <!--<p><b>Freyman, W.A.</b>. Phylogenetic evidence for the higher frequency of polyploidization in self-compatible lineages of Onagraceae. In prep.</p>-->
-                    <p><b>Freyman, W.A.</b> and S.N. Sheth. A Bayesian hierarchical model for detecting correlated rates of niche evolution and diversification. In prep.</p>
-                    <p><b>Freyman, W.A.</b> and S. H&ouml;hna. Stochastic character mapping of state-dependent diversification reveals the tempo of evolutionary decline in self-compatible lineages. Submitted to <em>PNAS</em>.
-                    <a href="https://www.biorxiv.org/content/early/2017/10/28/210484">[preprint]</a>
+                    <p><b>Freyman, W.A.</b> and S.N. Sheth. Jointly modeling quantitative traits and heterogenenous background diversification processes. In prep.</p>
+                    <p>Verboom, G.A., Boucher, F.C., Ackerly, D.A., Wootton, L.M., and <b>W.A. Freyman</b>. 2018. The impacts of historical species-selection regime on phylogenetic tree shape. Submitted. </p>
+                    <p>Landis, M.J., <b>Freyman, W.A.</b>, and B.G. Baldwin. 2018. Retracing the Hawaiian silversword radiation despite phylogenetic, biogeographic, and paleogeographic uncertainty.
+                    <em>bioRxiv</em> 301887. <a href="https://www.biorxiv.org/content/early/2018/04/17/301887">[preprint]</a>
                     </p>
-                    <p>Freund, F.D., <b>Freyman, W.A.</b> and C.J. Rothfels. Inferring the evolutionary reduction of corm lobation in <i>Isoëtes</i> using Bayesian model-averaged ancestral state reconstruction. Submitted to <em>American Journal of Botany</em>.
+                    <p><b>Freyman, W.A.</b> and S. H&ouml;hna. 2018. Stochastic character mapping of state-dependent diversification reveals the tempo of evolutionary decline in self-compatible lineages.
+                    Accepted in <em>Systematic Biology</em>. <a href="https://www.biorxiv.org/content/early/2018/06/22/210484">[preprint]</a>
+                    </p>
+                    <p>Freund, F.D., <b>Freyman, W.A.</b> and C.J. Rothfels. 2018. Inferring the evolutionary reduction of corm lobation in <i>Isoëtes</i> using Bayesian model-averaged ancestral state reconstruction. <em>American Journal of Botany</em> 105(2) 275-286
                     <a href="https://www.biorxiv.org/content/early/2017/11/01/212316">[preprint]</a>
+                    <a href="https://onlinelibrary.wiley.com/doi/10.1002/ajb2.1024">[journal]</a>
                     </p>
                     <p>Thornhill, A.H., Baldwin, B.G., <b>Freyman, W.A.</b>, Nosratinia, S., Kling, M.M., Morueta-Holme, N., Madsen, T.P., Ackerly, D.D., and B.D. Mishler. 2017. Spatial phylogenetics of the native California flora. <em>BMC Biology</em> 15:96
                     <a href="https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-017-0435-x">[journal]</a>
@@ -43,7 +48,14 @@
 					<p>Olfelt, J.P. and <b>W.A. Freyman</b>. 2014. Relationships of North American members of <em>Rhodiola</em> (Crassulaceae). <em>Botany</em> 92(12): 901-910 <a href="http://www.nrcresearchpress.com/doi/abs/10.1139/cjb-2014-0009">[journal]</a> <a href="/assets/pdf/2014_Olfelt_Freyman_Rhodiola.pdf">[pdf]</a></p>
 					<p><b>Freyman, W.A.</b> and K.A. Glennemeier. 2014. Restoration Map: a web-based tool for spatial and participatory adaptive management of ecological restoration projects. <em>Ecological Restoration</em> (32-1) <a href="http://er.uwpress.org/content/32/1/3.full.pdf+html">[journal]</a> <a href="/assets/pdf/2014_Freyman_Glennemeier_Restoration_Map.pdf">[pdf]</a></p>
 					
-                    <h4>Abstracts</h4>
+                    <h3>Abstracts</h3>
+                    <p><b>Freyman, W.A.</b> and E.E. Goldberg. 2018. Testing the adequacy of trait-dependent speciation and extinction models with posterior predictive checks. Evolution 2018, Montpellier, France</p>
+                    <p>Zenil-Ferguson, R., <b>Freyman, W.A.</b>, Jordan, K. 2018. RevBayes: An introduction to Bayesian inference in phylogenetics. Botany 2018, Rochester, MN</p>
+                    <p>Lichter Marck, I.H., <b>Freyman, W.A.</b>, Schneider, A., Tian, E., Baldwin, B. 2018. Phylogenomics of the rock daisies (Perityleae; Asteraceae). Botany 2018, Rochester, MN</p>
+                    <p>Wilson, C., <b>Freyman, W.A.</b> 2018. Phylogenomics of subgenus Hermodactyloides, a small lineage of bulbous <i>Iris</i> that are mostly narrow endemics. Botany 2018, Rochester, MN</p>
+                    <p>Puente-Lelievre, C., Crayn, D., <b>Freyman, W.A.</b>, Potter, B. 2018. Historical biogeography of the Australasian Ericaceae: evaluating competing vicariance and dispersal scenarios. Botany 2018, Rochester, MN</p>
+                    <p>Mitine, C., Lehman, K., Thornhill, A., <b>Freyman, W.A.</b>, Wright, C., Hernandez, A.I. Baldwin, B., Mishler, B., Guilliams, C.M. 2018. Using spatial phylogenetics to inform conservation at the archipelago-scale: an introduction to the Channel Islands Phylodiversity Project. Botany 2018, Rochester, MN</p>
+                    <p>Landis, M.J., <b>Freyman, W.A.</b>, and B.G. Baldwin. Dating the Hawaiian silversword radiation in the face of phylogenetic, biogeographic, and paleogeographic uncertainty. GSA 2017, Seattle, WA</p>
                     <p><b>Freyman, W.A.</b> 2017. Stochastic character mapping of state-dependent diversification reveals the tempo of evolutionary decline in self-compatible lineages. Evolution 2017, Portland, OR</p>
                     <p>Furness, A., Springer, M., <b>Freyman, W.A.</b>, and S. H&ouml;hna. 2017. Placental invasiveness and Eutherian mammal diversification. Evolution 2017, Portland, OR</p>
                     <p>Landis, M.J., Brown, J.M., Coghill, L.M., <b>Freyman, W.A.</b>, Heath, T.A., Pett, W.C., Wright, A.M., and S. H&ouml;hna. 2017. RevBayes. iEvoBio 2017, Portland, OR</p>

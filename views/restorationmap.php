@@ -19,7 +19,7 @@
 						</div>
 					</div>
 					<div class="span6">
-						<h4>Restoration Map</h4>
+						<h3>Restoration Map</h3>
 						<p><a href="http://restorationmap.org">Restoration Map</a> is an open-source and free web-based application to help plan, implement, and 
 						assess ecological restoration projects within Chicago Wilderness natural areas.
 						It is designed to encourage collaboration and improve communication
